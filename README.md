@@ -40,22 +40,18 @@ pip install -r requirements.txt
 ```
 mkdir -p data && cd data
 
-# Download PM209.zip
-wget -c https://drive.google.com/file/d/1K6BPBYdTwKgA1OkNt_BUqVJAn3RDy59B/view?usp=sharing
-
+# Download PM209.zip from: https://drive.google.com/file/d/1K6BPBYdTwKgA1OkNt_BUqVJAn3RDy59B/view?usp=sharing
 unzip PM209.zip
 cd ..
 ```
 ## URA config file and checkpoint
 ```
-# Download expr.zip
-wget -c https://drive.google.com/file/d/1CgY5pg2Z1DtfZVcvLtSIsxYjMiBSBQyx/view?usp=sharing
+# Download expr.zip from: https://drive.google.com/file/d/1CgY5pg2Z1DtfZVcvLtSIsxYjMiBSBQyx/view?usp=sharing
 unzip expr.zip
 ```
 ## Pre-trained T5 and BUA models
 ```
-# Download pretrained.zip
-wget -c https://drive.google.com/file/d/1-o1LMbZKCZQOBJtX1C1T_MkZzOG8tsxu/view?usp=share_link
+# Download pretrained.zip from: https://drive.google.com/file/d/1-o1LMbZKCZQOBJtX1C1T_MkZzOG8tsxu/view?usp=share_link
 unzip pretrained.zip
 
 # Make symbolic link to the ./detector dir 
