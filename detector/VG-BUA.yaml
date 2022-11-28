@@ -1,0 +1,14 @@
+_BASE_: "./Base-BUA.yaml"
+OUTPUT_DIR: expr/vg-bua/output/
+MODEL:
+  WEIGHTS: "pretrained/R-101.pkl"
+  MASK_ON: False
+  BUA:
+    ATTRIBUTE_ON: True
+    EXTRACTOR:
+      MODE: 1
+      MIN_BOXES: 10
+      MAX_BOXES: 20
+      CONF_THRESH: 0.4
+  RESNETS:
+    DEPTH: 101

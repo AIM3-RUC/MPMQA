@@ -1,0 +1,846 @@
+[
+  {
+    "name": "Samsung",
+    "value": 40,
+    "label": {
+      "fontSize": 12
+    },
+    "children": [
+      {
+        "name": "tv",
+        "value": 3,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "computer monitor",
+        "value": 2,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "automobile",
+        "value": 2,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "projector",
+        "value": 2,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "speaker",
+        "value": 2,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "air conditioner",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "dehumidifier",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "digital photo frame",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "clothes dryer",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "printer",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "washer",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "video gaming accessories",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "tablet",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "gps receiver",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "baby monitor",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "vacuum cleaner",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "cooktop",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "oven",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "satellite tv system",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "ip phone",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "modem",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "radio",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "multimedia player",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "dvd player",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "design software",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "mp3 docking station",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "camcorder",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "mp3 player",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "washerdryer",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "mouse",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "label maker",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "cell phone",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "blu-ray player",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "dish washer",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      }
+    ]
+  },
+  {
+    "name": "Bose",
+    "value": 32,
+    "label": {
+      "fontSize": 12
+    },
+    "children": [
+      {
+        "name": "speaker",
+        "value": 8,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "headphones",
+        "value": 5,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "portable speaker",
+        "value": 3,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "music receiver",
+        "value": 2,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "bluetooth speaker",
+        "value": 2,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "cd player",
+        "value": 2,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "speaker system",
+        "value": 2,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "music amplifier",
+        "value": 2,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "home theatre",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "tv",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "mp3 docking station",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "home theater",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "dvd player",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "music system",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      }
+    ]
+  },
+  {
+    "name": "Sony",
+    "value": 15,
+    "label": {
+      "fontSize": 12
+    },
+    "children": [
+      {
+        "name": "game",
+        "value": 2,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "cd player",
+        "value": 2,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "printer",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "laptop",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "dvd player",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "bluetooth headset",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "barcode reader",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "speaker",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "tablet",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "tv",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "tv cables",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "radio",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "TV stand",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      }
+    ]
+  },
+  {
+    "name": "LG",
+    "value": 12,
+    "label": {
+      "fontSize": 12
+    },
+    "children": [
+      {
+        "name": "air conditioner",
+        "value": 3,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "tv antenna",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "tv",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "game",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "stove",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "home theater",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "automobile",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "music system",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "speaker system",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "cd player",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      }
+    ]
+  },
+  {
+    "name": "Dell",
+    "value": 11,
+    "label": {
+      "fontSize": 12
+    },
+    "children": [
+      {
+        "name": "tool storage",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "cell phone",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "baby monitor",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "riding toy",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "coffeemaker",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "music system",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "tv mount",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "computer keyboard",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "printer",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "Repair/Assemble Guideline",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "tablet",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      }
+    ]
+  },
+  {
+    "name": "Lenovo",
+    "value": 11,
+    "label": {
+      "fontSize": 12
+    },
+    "children": [
+      {
+        "name": "tablet",
+        "value": 2,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "mouse",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "tv",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "cell phone",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "computer drive",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "computer monitor",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "GPU",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "laptop",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "computer accessories",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "headphones",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      }
+    ]
+  },
+  {
+    "name": "Toshiba",
+    "value": 8,
+    "label": {
+      "fontSize": 12
+    },
+    "children": [
+      {
+        "name": "security camera",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "air conditioner",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "digital photo keychain",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "answering machine",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "copier",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "stud sensor",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "dvd recorder",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "laptop",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      }
+    ]
+  },
+  {
+    "name": "Philips",
+    "value": 7,
+    "label": {
+      "fontSize": 12
+    },
+    "children": [
+      {
+        "name": "automobile",
+        "value": 2,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "marine radio",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "blender",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "air conditioner",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "air cleaner",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "blu-ray player",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      }
+    ]
+  },
+  {
+    "name": "HUAWEI",
+    "value": 3,
+    "label": {
+      "fontSize": 12
+    },
+    "children": [
+      {
+        "name": "AI speaker",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "home security system",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      },
+      {
+        "name": "credit card machine",
+        "value": 1,
+        "label": {
+          "fontSize": 6
+        }
+      }
+    ]
+  }
+]

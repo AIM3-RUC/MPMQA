@@ -1,0 +1,603 @@
+[
+  {
+    "name": "Samsung",
+    "value": 13,
+    "label": {
+      "fontSize": 12
+    },
+    "children": [
+      {
+        "name": "tv",
+        "value": 2,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "storage device",
+        "value": 2,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "watch",
+        "value": 2,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "home theatre",
+        "value": 2,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "tablet",
+        "value": 1,
+        "label": {
+          "fontSize": 8
+        }
+      },
+      {
+        "name": "dish washer",
+        "value": 1,
+        "label": {
+          "fontSize": 8
+        }
+      },
+      {
+        "name": "cell phone",
+        "value": 1,
+        "label": {
+          "fontSize": 8
+        }
+      },
+      {
+        "name": "earphone",
+        "value": 1,
+        "label": {
+          "fontSize": 8
+        }
+      },
+      {
+        "name": "audio box",
+        "value": 1,
+        "label": {
+          "fontSize": 8
+        }
+      }
+    ]
+  },
+  {
+    "name": "HUAWEI",
+    "value": 10,
+    "label": {
+      "fontSize": 12
+    },
+    "children": [
+      {
+        "name": "tablet",
+        "value": 2,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "watch",
+        "value": 2,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "computer",
+        "value": 1,
+        "label": {
+          "fontSize": 8
+        }
+      },
+      {
+        "name": "earphone",
+        "value": 1,
+        "label": {
+          "fontSize": 8
+        }
+      },
+      {
+        "name": "wireless router",
+        "value": 1,
+        "label": {
+          "fontSize": 8
+        }
+      },
+      {
+        "name": "printer",
+        "value": 1,
+        "label": {
+          "fontSize": 8
+        }
+      },
+      {
+        "name": "laptop",
+        "value": 1,
+        "label": {
+          "fontSize": 8
+        }
+      },
+      {
+        "name": "computer monitor",
+        "value": 1,
+        "label": {
+          "fontSize": 8
+        }
+      }
+    ]
+  },
+  {
+    "name": "Apple",
+    "value": 8,
+    "label": {
+      "fontSize": 12
+    },
+    "children": [
+      {
+        "name": "laptop",
+        "value": 2,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "application",
+        "value": 2,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "cell phone",
+        "value": 1,
+        "label": {
+          "fontSize": 8
+        }
+      },
+      {
+        "name": "watch",
+        "value": 1,
+        "label": {
+          "fontSize": 8
+        }
+      },
+      {
+        "name": "operating system",
+        "value": 1,
+        "label": {
+          "fontSize": 8
+        }
+      },
+      {
+        "name": "computer accessories",
+        "value": 1,
+        "label": {
+          "fontSize": 8
+        }
+      }
+    ]
+  },
+  {
+    "name": "Dell",
+    "value": 7,
+    "label": {
+      "fontSize": 12
+    },
+    "children": [
+      {
+        "name": "laptop",
+        "value": 5,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "Repair/Assemble Guideline",
+        "value": 1,
+        "label": {
+          "fontSize": 8
+        }
+      },
+      {
+        "name": "tablet",
+        "value": 1,
+        "label": {
+          "fontSize": 8
+        }
+      }
+    ]
+  },
+  {
+    "name": "Bose",
+    "value": 4,
+    "label": {
+      "fontSize": 12
+    },
+    "children": [
+      {
+        "name": "music system",
+        "value": 2,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "soundlink adapter",
+        "value": 1,
+        "label": {
+          "fontSize": 8
+        }
+      },
+      {
+        "name": "music adapter",
+        "value": 1,
+        "label": {
+          "fontSize": 8
+        }
+      }
+    ]
+  },
+  {
+    "name": "Microsoft",
+    "value": 4,
+    "label": {
+      "fontSize": 12
+    },
+    "children": [
+      {
+        "name": "vr device",
+        "value": 2,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "tablet",
+        "value": 1,
+        "label": {
+          "fontSize": 8
+        }
+      },
+      {
+        "name": "operating system",
+        "value": 1,
+        "label": {
+          "fontSize": 8
+        }
+      }
+    ]
+  },
+  {
+    "name": "HONOR",
+    "value": 3,
+    "label": {
+      "fontSize": 12
+    },
+    "children": [
+      {
+        "name": "cell phone",
+        "value": 1,
+        "label": {
+          "fontSize": 8
+        }
+      },
+      {
+        "name": "laptop",
+        "value": 1,
+        "label": {
+          "fontSize": 8
+        }
+      },
+      {
+        "name": "watch",
+        "value": 1,
+        "label": {
+          "fontSize": 8
+        }
+      }
+    ]
+  },
+  {
+    "name": "MI",
+    "value": 2,
+    "label": {
+      "fontSize": 12
+    },
+    "children": [
+      {
+        "name": "earphone",
+        "value": 1,
+        "label": {
+          "fontSize": 8
+        }
+      },
+      {
+        "name": "cell phone",
+        "value": 1,
+        "label": {
+          "fontSize": 8
+        }
+      }
+    ]
+  },
+  {
+    "name": "Nintendo",
+    "value": 2,
+    "label": {
+      "fontSize": 12
+    },
+    "children": [
+      {
+        "name": "game",
+        "value": 1,
+        "label": {
+          "fontSize": 8
+        }
+      },
+      {
+        "name": "video game player",
+        "value": 1,
+        "label": {
+          "fontSize": 8
+        }
+      }
+    ]
+  },
+  {
+    "name": "Lenovo",
+    "value": 2,
+    "label": {
+      "fontSize": 12
+    },
+    "children": [
+      {
+        "name": "computer",
+        "value": 2,
+        "label": {
+          "fontSize": 12
+        }
+      }
+    ]
+  },
+  {
+    "name": "OPPO",
+    "value": 2,
+    "label": {
+      "fontSize": 12
+    },
+    "children": [
+      {
+        "name": "operating system",
+        "value": 1,
+        "label": {
+          "fontSize": 8
+        }
+      },
+      {
+        "name": "watch",
+        "value": 1,
+        "label": {
+          "fontSize": 8
+        }
+      }
+    ]
+  },
+  {
+    "name": "Ford",
+    "value": 1,
+    "label": {
+      "fontSize": 8
+    },
+    "children": [
+      {
+        "name": "automobile",
+        "value": 1,
+        "label": {
+          "fontSize": 8
+        }
+      }
+    ]
+  },
+  {
+    "name": "Boston Dynamics",
+    "value": 1,
+    "label": {
+      "fontSize": 8
+    },
+    "children": [
+      {
+        "name": "robot dog",
+        "value": 1,
+        "label": {
+          "fontSize": 8
+        }
+      }
+    ]
+  },
+  {
+    "name": "Audi",
+    "value": 1,
+    "label": {
+      "fontSize": 8
+    },
+    "children": [
+      {
+        "name": "automobile",
+        "value": 1,
+        "label": {
+          "fontSize": 8
+        }
+      }
+    ]
+  },
+  {
+    "name": "GE",
+    "value": 1,
+    "label": {
+      "fontSize": 8
+    },
+    "children": [
+      {
+        "name": "microwave oven",
+        "value": 1,
+        "label": {
+          "fontSize": 8
+        }
+      }
+    ]
+  },
+  {
+    "name": "GoPro",
+    "value": 1,
+    "label": {
+      "fontSize": 8
+    },
+    "children": [
+      {
+        "name": "camera",
+        "value": 1,
+        "label": {
+          "fontSize": 8
+        }
+      }
+    ]
+  },
+  {
+    "name": "Universal Robots",
+    "value": 1,
+    "label": {
+      "fontSize": 8
+    },
+    "children": [
+      {
+        "name": "mechanical arm",
+        "value": 1,
+        "label": {
+          "fontSize": 8
+        }
+      }
+    ]
+  },
+  {
+    "name": "Nissan",
+    "value": 1,
+    "label": {
+      "fontSize": 8
+    },
+    "children": [
+      {
+        "name": "automobile",
+        "value": 1,
+        "label": {
+          "fontSize": 8
+        }
+      }
+    ]
+  },
+  {
+    "name": "DJI",
+    "value": 1,
+    "label": {
+      "fontSize": 8
+    },
+    "children": [
+      {
+        "name": "drone",
+        "value": 1,
+        "label": {
+          "fontSize": 8
+        }
+      }
+    ]
+  },
+  {
+    "name": "Tesla",
+    "value": 1,
+    "label": {
+      "fontSize": 8
+    },
+    "children": [
+      {
+        "name": "automobile",
+        "value": 1,
+        "label": {
+          "fontSize": 8
+        }
+      }
+    ]
+  },
+  {
+    "name": "Ubuntu",
+    "value": 1,
+    "label": {
+      "fontSize": 8
+    },
+    "children": [
+      {
+        "name": "operating system",
+        "value": 1,
+        "label": {
+          "fontSize": 8
+        }
+      }
+    ]
+  },
+  {
+    "name": "Mercedes-Benz",
+    "value": 1,
+    "label": {
+      "fontSize": 8
+    },
+    "children": [
+      {
+        "name": "automobile",
+        "value": 1,
+        "label": {
+          "fontSize": 8
+        }
+      }
+    ]
+  },
+  {
+    "name": "LG",
+    "value": 1,
+    "label": {
+      "fontSize": 8
+    },
+    "children": [
+      {
+        "name": "bluetooth headset",
+        "value": 1,
+        "label": {
+          "fontSize": 8
+        }
+      }
+    ]
+  },
+  {
+    "name": "Google",
+    "value": 1,
+    "label": {
+      "fontSize": 8
+    },
+    "children": [
+      {
+        "name": "operating system",
+        "value": 1,
+        "label": {
+          "fontSize": 8
+        }
+      }
+    ]
+  }
+]

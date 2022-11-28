@@ -1,0 +1,838 @@
+{
+ "Apple_iphone-13-pro-max-07300325A-repair": {
+  "brand": "Apple",
+  "product": "cell phone"
+ },
+ "bose_headphones_manuals_c964fa53-9268-4683-853b-2ef0fc516281": {
+  "brand": "Bose",
+  "product": "headphones"
+ },
+ "sony_video games manuals_f77dd7ef-1aee-456d-8189-91b36b71690a": {
+  "brand": "Sony",
+  "product": "game"
+ },
+ "samsung_air conditioner manuals_55f1cc77-90bf-4444-8352-3f821c2a5233": {
+  "brand": "Samsung",
+  "product": "air conditioner"
+ },
+ "bose_home_theater_system_manuals_6be6168b-df9c-40c5-a332-96d84277e122": {
+  "brand": "Bose",
+  "product": "home theatre"
+ },
+ "toshiba_security camera manuals_dda1651f-59e0-4d36-9cc3-f3b7bf58297a": {
+  "brand": "Toshiba",
+  "product": "security camera"
+ },
+ "samsung_tv": {
+  "brand": "Samsung",
+  "product": "tv"
+ },
+ "samsung_computer monitor manuals_792b95a1-c245-83b4-e1e8-9f1b216094bd": {
+  "brand": "Samsung",
+  "product": "computer monitor"
+ },
+ "laptop_dell_inspiron 11 3000 service manual": {
+  "brand": "Dell",
+  "product": "laptop"
+ },
+ "samsung_dehumidifier manuals_e1c7798f-3811-425a-90c5-66862a1cf031": {
+  "brand": "Samsung",
+  "product": "dehumidifier"
+ },
+ "Samsung_tab_SM-P900_Galaxy_Tab_PRO_EN_UM_KK_NAE_F5_AC": {
+  "brand": "Samsung",
+  "product": "tablet"
+ },
+ "bose_stereo_receiver_manuals_f6a48783-84e0-429f-93e9-092f6a28db3b": {
+  "brand": "Bose",
+  "product": "music receiver"
+ },
+ "HONOR_HRY Mobile Phone User Guide-(EMUI9.0.1_01,EN,Normal)": {
+  "brand": "HONOR",
+  "product": "cell phone"
+ },
+ "HUAWEI_MateStation S User Guide-(Windows11_01,en,PanguB)": {
+  "brand": "HUAWEI",
+  "product": "computer"
+ },
+ "Mi_True_Wireless_Earbuds_uk": {
+  "brand": "MI",
+  "product": "earphone"
+ },
+ "Watch_Apple_User_Guide": {
+  "brand": "Apple",
+  "product": "watch"
+ },
+ "samsung_digital photo frame manuals_7cb3b154-2fbe-5ea4-ad81-2fa0f4ebb5f8": {
+  "brand": "Samsung",
+  "product": "digital photo frame"
+ },
+ "samsung_clothes dryer manuals_6eb7f73f-246a-41ee-baec-95bcb51a0afb": {
+  "brand": "Samsung",
+  "product": "clothes dryer"
+ },
+ "HUAWEI_Shark User Mannual": {
+  "brand": "HUAWEI",
+  "product": "earphone"
+ },
+ "owg_en_wms_soundlink_adapterkit": {
+  "brand": "Bose",
+  "product": "soundlink adapter"
+ },
+ "bose_speaker_manuals_4f6183d3-5b66-4daf-bff4-4f76555dd5ed": {
+  "brand": "Bose",
+  "product": "speaker"
+ },
+ "dell_tool storage manuals_387af136-03ed-43e8-9f9b-3434a6aee8d0": {
+  "brand": "Dell",
+  "product": "tool storage"
+ },
+ "Mi_Phone_User_Guide_eng": {
+  "brand": "MI",
+  "product": "cell phone"
+ },
+ "lg_tv antenna manuals_20ac5bcc-8356-4f66-b59b-cd47d40c44ae": {
+  "brand": "LG",
+  "product": "tv antenna"
+ },
+ "bose_speaker manuals_ecc0b8f6-1f82-4786-81ae-07b1b59ee78d": {
+  "brand": "Bose",
+  "product": "speaker"
+ },
+ "cars_2021-Ford-Mustang-Mach-E-Owners-Manual-Job-2_version-1_om_EN-US_05_2021": {
+  "brand": "Ford",
+  "product": "automobile"
+ },
+ "samsung_automobile alarm manuals_43be49b1-35a1-4837-93b1-cc95ccd98afc": {
+  "brand": "Samsung",
+  "product": "automobile"
+ },
+ "lg_flat panel television manuals_0a4c44a6-633b-49de-b960-2cb89fb501d7": {
+  "brand": "LG",
+  "product": "tv"
+ },
+ "alienware-17-r5_service-manual_en-us": {
+  "brand": "Dell",
+  "product": "Repair/Assemble Guideline"
+ },
+ "bose_headphones_manuals_06dbf684-84b7-42d8-890e-690ff152f03d": {
+  "brand": "Bose",
+  "product": "headphones"
+ },
+ "bose_flat panel television manuals_57c2c417-fede-40e6-b938-054ce161c55d": {
+  "brand": "Bose",
+  "product": "tv"
+ },
+ "samsung_printer manuals_4b22d714-a992-4631-9c27-64e7b3723c46": {
+  "brand": "Samsung",
+  "product": "printer"
+ },
+ "toshiba_air conditioner manuals_fa6db8bc-5435-4363-a3e2-e6b85ab5ad6e": {
+  "brand": "Toshiba",
+  "product": "air conditioner"
+ },
+ "Nintendo_game_manual-3ds-animal-crossing-happy-home-designer-en": {
+  "brand": "Nintendo",
+  "product": "game"
+ },
+ "dell_cell phone manuals_4686e2e1-87a4-4f6a-bf20-61c646c11bb9": {
+  "brand": "Dell",
+  "product": "cell phone"
+ },
+ "ms_hololens": {
+  "brand": "Microsoft",
+  "product": "vr device"
+ },
+ "HONOR_HUNTER V700 User Guide-(01,en,Faraday)": {
+  "brand": "HONOR",
+  "product": "laptop"
+ },
+ "Microsoft_Surface Pro User Guide": {
+  "brand": "Microsoft",
+  "product": "tablet"
+ },
+ "samsung_washer manuals_ceae276b-1412-eae4-95f7-d54d4e8cc7b8": {
+  "brand": "Samsung",
+  "product": "washer"
+ },
+ "Nintendo_device_new2dsxl_operationsmanual_eng_final": {
+  "brand": "Nintendo",
+  "product": "video game player"
+ },
+ "dell_baby monitor manuals_25ea8974-362d-478e-92d0-7cbecb902f16": {
+  "brand": "Dell",
+  "product": "baby monitor"
+ },
+ "toshiba_digital photo keychain manuals_0d3d72f8-58c9-46b6-a880-474716c47a2f": {
+  "brand": "Toshiba",
+  "product": "digital photo keychain"
+ },
+ "bose_speaker system manuals_8fe72d34-9875-4d82-964e-e0db201fa23d": {
+  "brand": "Bose",
+  "product": "speaker"
+ },
+ "samsung_model vehicle manuals_9b5c401e-4f1d-4804-ac57-ba75209e3d4e": {
+  "brand": "Samsung",
+  "product": "tv"
+ },
+ "lenovo_mouse manuals_68d24a8c-fe44-4bc2-9fc9-be0b8102c9c4": {
+  "brand": "Lenovo",
+  "product": "mouse"
+ },
+ "laptop_Lenovo_tc_x1_ug_en": {
+  "brand": "Lenovo",
+  "product": "computer"
+ },
+ "HUAWEI_Sound Joy User Guide-(EGRT-09,02,en)": {
+  "brand": "HUAWEI",
+  "product": "AI speaker"
+ },
+ "lenovo_flat panel television manuals_8a8e3f07-1916-41ca-83c5-3abbb57b1290": {
+  "brand": "Lenovo",
+  "product": "tv"
+ },
+ "sony_all_in_one_printer_manuals_8bed6429-79d6-4fb4-9d4f-122525aeadea": {
+  "brand": "Sony",
+  "product": "printer"
+ },
+ "HUAWEI_HG658_User Guide_V2_01_English": {
+  "brand": "HUAWEI",
+  "product": "wireless router"
+ },
+ "lenovo_cell phone manuals_03fc2940-7cef-46c6-af65-7edb75581ddf": {
+  "brand": "Lenovo",
+  "product": "cell phone"
+ },
+ "bose_portable_speaker_manuals_7b242375-b2e6-4a31-94ef-4e763ff17d4e": {
+  "brand": "Bose",
+  "product": "portable speaker"
+ },
+ "samsung_projector accessories manuals_22f8c0ba-8fbd-44bf-942c-f90001663857": {
+  "brand": "Samsung",
+  "product": "projector"
+ },
+ "samsung_video gaming accessories manuals_f0ee75e7-18ff-4260-ac5c-3db2ec0f8fd4": {
+  "brand": "Samsung",
+  "product": "video gaming accessories"
+ },
+ "lg_games manuals_74b8d629-4f8b-4bb5-8f53-a0cfa8763643": {
+  "brand": "LG",
+  "product": "game"
+ },
+ "samsung_tablet manuals_4b13a426-b232-4902-8782-201d55a20445": {
+  "brand": "Samsung",
+  "product": "tablet"
+ },
+ "samsung_gps receiver manuals_958bd55c-3ebf-4e4f-be5d-a7a497a88842": {
+  "brand": "Samsung",
+  "product": "gps receiver"
+ },
+ "robotics_spot-user-guide-r2.0-va": {
+  "brand": "Boston Dynamics",
+  "product": "robot dog"
+ },
+ "samsung_ssd_data_migration_user_manual_english_us_revision_v5.docx": {
+  "brand": "Samsung",
+  "product": "storage device"
+ },
+ "samsung_baby monitor manuals_920c46b3-bd59-41e2-8280-1f3a7288e42b": {
+  "brand": "Samsung",
+  "product": "baby monitor"
+ },
+ "sony_personal computer manuals_a1ffeff2-6c34-4bb8-86f3-711be27180d9": {
+  "brand": "Sony",
+  "product": "cd player"
+ },
+ "lenovo_computer drive manuals_84538c4e-1338-4d33-82fa-38b2047ee8f1": {
+  "brand": "Lenovo",
+  "product": "computer drive"
+ },
+ "HUAWEI_MediaPad_User Guide_02_English_EMUI 3.0": {
+  "brand": "HUAWEI",
+  "product": "tablet"
+ },
+ "HUAWEI Band 4e User Guide-(AW70,01,en)": {
+  "brand": "HUAWEI",
+  "product": "watch"
+ },
+ "toshiba_answering machine manuals_ff9b37d3-1d8c-45e1-9009-8486f73fb0bb": {
+  "brand": "Toshiba",
+  "product": "answering machine"
+ },
+ "lg_air conditioner manuals_b72e8af7-50e5-4224-a80a-3fd33af90987": {
+  "brand": "LG",
+  "product": "air conditioner"
+ },
+ "bose_headphones_manuals_6d12e20d-cf8d-4337-b073-53d7e85e4163": {
+  "brand": "Bose",
+  "product": "headphones"
+ },
+ "laptop_dell_Alienware 17 R5 Setup and Specifications": {
+  "brand": "Dell",
+  "product": "laptop"
+ },
+ "HONOR_Watch Magic&Dream User Guide(TLS-B19,01,EN)": {
+  "brand": "HONOR",
+  "product": "watch"
+ },
+ "bose_portable speaker manuals_7aee09cf-3d92-4120-97db-e5dcc3cb7d74": {
+  "brand": "Bose",
+  "product": "portable speaker"
+ },
+ "bose_speaker_manuals_3cdd5a6d-c76c-4c78-a8f3-9db958a5c740": {
+  "brand": "Bose",
+  "product": "speaker"
+ },
+ "samsung_dish_washer_6918977 a": {
+  "brand": "Samsung",
+  "product": "dish washer"
+ },
+ "samsung_vacuum cleaner manuals_8cb9360e-cafe-4c53-9d35-ef193667e586": {
+  "brand": "Samsung",
+  "product": "vacuum cleaner"
+ },
+ "lg_air_conditioner_manuals_6b68a9c3-19fb-49fb-85c6-3db35b102e74": {
+  "brand": "LG",
+  "product": "air conditioner"
+ },
+ "samsung_cooktop manuals_bb88a52d-cec1-48de-9f5d-87682039ac3d": {
+  "brand": "Samsung",
+  "product": "cooktop"
+ },
+ "sony_laptop_manuals_a02cf092-3538-4646-ab93-8cae84a07ad2": {
+  "brand": "Sony",
+  "product": "laptop"
+ },
+ "Samsung_phone_zfold_SAM_F926_F711_EN_UM_OS12_010722_FINAL": {
+  "brand": "Samsung",
+  "product": "cell phone"
+ },
+ "phone_os_User Guide_ColorOS_12_v1.0_20211028": {
+  "brand": "OPPO",
+  "product": "operating system"
+ },
+ "HUAWEI_MatePad User Guide-(BAH4-W09&L09,HarmonyOS 2_01,en)": {
+  "brand": "HUAWEI",
+  "product": "tablet"
+ },
+ "bose_speaker_manuals_a0300d5c-655e-48db-9eeb-df1081e89573": {
+  "brand": "Bose",
+  "product": "bluetooth speaker"
+ },
+ "sony_portable dvd player manuals_593efca0-f2aa-4cfd-8f6c-982e2b7165e2": {
+  "brand": "Sony",
+  "product": "dvd player"
+ },
+ "toshiba_copier manuals_bc3d2e8d-5681-460f-abd4-71e804253675": {
+  "brand": "Toshiba",
+  "product": "copier"
+ },
+ "lg_stove manuals_dc2be6dc-e1dd-4c3f-a55c-c60e6e92ed6f": {
+  "brand": "LG",
+  "product": "stove"
+ },
+ "HUAWEI_PixLab X1 User Guide-(01,en,CV81&CV81Z)": {
+  "brand": "HUAWEI",
+  "product": "printer"
+ },
+ "philips_marine radio manuals_c2ca5402-f542-4527-a385-f8e77c781845": {
+  "brand": "Philips",
+  "product": "marine radio"
+ },
+ "samsung_oven manuals_399945bf-670f-4502-8c4b-b1916cad1389": {
+  "brand": "Samsung",
+  "product": "oven"
+ },
+ "bose_speaker_manuals_ecc0b8f6-1f82-4786-81ae-07b1b59ee78d": {
+  "brand": "Bose",
+  "product": "bluetooth speaker"
+ },
+ "samsung_satellite tv system manuals_8e4d790e-d462-ef34-6de7-ac2a95c584d7": {
+  "brand": "Samsung",
+  "product": "satellite tv system"
+ },
+ "windows10forbeginners": {
+  "brand": "Microsoft",
+  "product": "operating system"
+ },
+ "Samsung_earphone_WEA_SM-R190_Buds_Pro_EN_UM_010621_FINAL_AC": {
+  "brand": "Samsung",
+  "product": "earphone"
+ },
+ "bose_cd player manuals_7e4ec598-9420-4404-9a1d-12ab93cb489a": {
+  "brand": "Bose",
+  "product": "cd player"
+ },
+ "samsung_flat panel television manuals_38d77b06-4a0f-4e8d-bac5-ab864069b490": {
+  "brand": "Samsung",
+  "product": "computer monitor"
+ },
+ "samsung_speaker system manuals_db0d5137-6cab-445e-8cf6-e0786023b315": {
+  "brand": "Samsung",
+  "product": "speaker"
+ },
+ "HUAWEI_FIT_User Guide_V1.0_English": {
+  "brand": "HUAWEI",
+  "product": "watch"
+ },
+ "lenovo_fan manuals_7810f9e0-0f70-463a-831c-3f8007fc3079": {
+  "brand": "Lenovo",
+  "product": "computer monitor"
+ },
+ "toshiba_stud sensor manuals_36264cb2-e1b4-4190-ade4-5ea0ea6df40a": {
+  "brand": "Toshiba",
+  "product": "stud sensor"
+ },
+ "dell_riding toy manuals_2bf024e6-587b-4f49-b935-39c8516f6728": {
+  "brand": "Dell",
+  "product": "riding toy"
+ },
+ "bose_mp3_docking_station_manuals_11721c7f-a32f-4022-9905-db8f81a1fbaf": {
+  "brand": "Bose",
+  "product": "mp3 docking station"
+ },
+ "samsung_audio_box_eo-sb330_um_sea_rev.1.0_140728_screen": {
+  "brand": "Samsung",
+  "product": "audio box"
+ },
+ "lg_home theater system manuals_0ff01147-460f-49de-8427-d597445dec8c": {
+  "brand": "LG",
+  "product": "home theater"
+ },
+ "bose_headphones_manuals_768a0fac-5355-4e11-a6e6-8aa105222381": {
+  "brand": "Bose",
+  "product": "headphones"
+ },
+ "cars_audi-e-tron-Product-Guide": {
+  "brand": "Audi",
+  "product": "automobile"
+ },
+ "lg_automobile parts manuals_56489bd7-669f-41db-8361-f5e75bb1cd40": {
+  "brand": "LG",
+  "product": "automobile"
+ },
+ "lg_air_conditioner_manuals_8c425f48-87cc-4064-9428-add4b1bcf11a": {
+  "brand": "LG",
+  "product": "air conditioner"
+ },
+ "ge_microwave_oven": {
+  "brand": "GE",
+  "product": "microwave oven"
+ },
+ "lenovo_tablet accessory manuals_62d50b84-e893-4b29-8cb2-47380b01ac47": {
+  "brand": "Lenovo",
+  "product": "tablet"
+ },
+ "MS_hololens_2": {
+  "brand": "Microsoft",
+  "product": "vr device"
+ },
+ "OPPO_WATCH_User_Manual": {
+  "brand": "OPPO",
+  "product": "watch"
+ },
+ "Samsung_Portable_SSD_X5_User_Manual_v0_0_English": {
+  "brand": "Samsung",
+  "product": "storage device"
+ },
+ "lenovo_computer hardware manuals_0a1edb47-198a-4ca7-b1fd-cbb313a20232": {
+  "brand": "Lenovo",
+  "product": "GPU"
+ },
+ "bose_speaker_system_manuals_2be812e5-2eb8-4110-a034-257d35dc1b4e": {
+  "brand": "Bose",
+  "product": "speaker"
+ },
+ "gopro_hero_UM_HERO_ENG_REVB_WEB": {
+  "brand": "GoPro",
+  "product": "camera"
+ },
+ "phone_apple_ios8.4": {
+  "brand": "Apple",
+  "product": "operating system"
+ },
+ "Samsung_fit_SM-R220_EN_UM_Tizen_101420_FINAL_AC": {
+  "brand": "Samsung",
+  "product": "watch"
+ },
+ "laptop_macbook pro user's guide (manual)": {
+  "brand": "Apple",
+  "product": "laptop"
+ },
+ "samsung_ip phone manuals_0a1b4f1f-e5da-4adf-8783-64b671e1d4a5": {
+  "brand": "Samsung",
+  "product": "ip phone"
+ },
+ "robotis_robot_mechanical_arm_UR5_colored": {
+  "brand": "Universal Robots",
+  "product": "mechanical arm"
+ },
+ "Apple_Numbers09_UserGuide": {
+  "brand": "Apple",
+  "product": "application"
+ },
+ "Apple_Soundtrack_Pro_3_Effects_Reference": {
+  "brand": "Apple",
+  "product": "application"
+ },
+ "dell_coffeemaker manuals_4b4bb95f-c0dc-4673-80c4-807f23f79fb5": {
+  "brand": "Dell",
+  "product": "coffeemaker"
+ },
+ "bose_speaker_system_manuals_fded789f-0036-4038-a744-28bc550b2145": {
+  "brand": "Bose",
+  "product": "speaker"
+ },
+ "inspiron-11-3162-laptop_reference guide_en-us": {
+  "brand": "Dell",
+  "product": "laptop"
+ },
+ "samsung_modem manuals_8e10eaca-12e4-416e-ac99-52ebe84720bd": {
+  "brand": "Samsung",
+  "product": "modem"
+ },
+ "lg_stereo system manuals_02caae78-c3db-4107-9b7a-47f2861ca855": {
+  "brand": "LG",
+  "product": "music system"
+ },
+ "cars_2020-nissan-leaf-owner-manual": {
+  "brand": "Nissan",
+  "product": "automobile"
+ },
+ "toshiba_dvd recorder manuals_de8c2984-257e-41de-96ce-1ec95ace67a6": {
+  "brand": "Toshiba",
+  "product": "dvd recorder"
+ },
+ "dell_stereo system manuals_18b953ec-02fa-49a9-90bf-42c2a695bee6": {
+  "brand": "Dell",
+  "product": "music system"
+ },
+ "bose_speaker_system_manuals_c11cdab8-ffd1-d9e4-c1ca-75eecf650a71": {
+  "brand": "Bose",
+  "product": "speaker"
+ },
+ "bose_speaker_manuals_119cd60f-bc88-4a8e-9b2e-8eb23b72181c": {
+  "brand": "Bose",
+  "product": "speaker system"
+ },
+ "bose_stereo_amplifier_manuals_bb77e89e-171f-4c00-93cc-3fafb219db21": {
+  "brand": "Bose",
+  "product": "music amplifier"
+ },
+ "owg_en_wr_series2": {
+  "brand": "Bose",
+  "product": "music system"
+ },
+ "huawei_home security system manuals_bc4063ec-5b47-4af3-85ac-f2153fb56128": {
+  "brand": "HUAWEI",
+  "product": "home security system"
+ },
+ "philips_automobile accessories manuals_3969d05e-9061-4495-a066-bff46b0780e7": {
+  "brand": "Philips",
+  "product": "automobile"
+ },
+ "samsung_weather radio manuals_af9c653f-bb0b-4e63-97d2-82bd87053b8a": {
+  "brand": "Samsung",
+  "product": "radio"
+ },
+ "dell_tv mount manuals_16aaf928-6d87-405b-91ac-11ba741eaaba": {
+  "brand": "Dell",
+  "product": "tv mount"
+ },
+ "bose_home_theater_system_manuals_8b9337b9-434e-4b70-b24d-202b9c399c3c": {
+  "brand": "Bose",
+  "product": "home theater"
+ },
+ "sony_bluetooth_headset_manuals_e3c3d3da-72e4-4372-8416-e0c476f791f9": {
+  "brand": "Sony",
+  "product": "bluetooth headset"
+ },
+ "samsung_portable multimedia player manuals_216a3e86-d52b-26d4-4947-255f2d4bada7": {
+  "brand": "Samsung",
+  "product": "multimedia player"
+ },
+ "bose_headphones manuals_9917ef89-897c-6524-2502-2b0a91ec7d62": {
+  "brand": "Bose",
+  "product": "headphones"
+ },
+ "sony_barcode_reader_manuals_39078591-6795-4105-afdc-e23159a32b82": {
+  "brand": "Sony",
+  "product": "barcode reader"
+ },
+ "bose_speaker_manuals_03b08ce3-7419-45fb-aec6-6b3b35eaece2": {
+  "brand": "Bose",
+  "product": "speaker"
+ },
+ "samsung_home_theatre_hw-n950_za_fullmanual_02_eng_180809": {
+  "brand": "Samsung",
+  "product": "home theatre"
+ },
+ "samsung_dvd player manuals_eb3066b6-dde1-486e-a2f2-e30f8ccd6104": {
+  "brand": "Samsung",
+  "product": "dvd player"
+ },
+ "Samsung_Home_Theatre_HW-N950_ZA_FullManual_02_ENG_180809_2": {
+  "brand": "Samsung",
+  "product": "home theatre"
+ },
+ "philips_blender manuals_f6139bf4-9af3-4bba-93e0-2d54f4782c85": {
+  "brand": "Philips",
+  "product": "blender"
+ },
+ "samsung_webcam manuals_4fb9c19b-89fd-48b9-975a-333c768a2cf7": {
+  "brand": "Samsung",
+  "product": "design software"
+ },
+ "samsung_mp3 docking station manuals_8372d3c2-24d6-410c-a5d5-17dcfc77ffa2": {
+  "brand": "Samsung",
+  "product": "mp3 docking station"
+ },
+ "HUAWEI_MateBook X Pro User Guide-(01_en)": {
+  "brand": "HUAWEI",
+  "product": "laptop"
+ },
+ "Lenovo_tc_x1_ug_en": {
+  "brand": "Lenovo",
+  "product": "computer"
+ },
+ "bose_dvd player manuals_3ee2d3ca-75da-4342-bb03-1816d366169e": {
+  "brand": "Bose",
+  "product": "dvd player"
+ },
+ "bose_cd_player_manuals_4e5dc913-3118-08a4-45b6-03f93afb378f": {
+  "brand": "Bose",
+  "product": "cd player"
+ },
+ "philips_automobile manuals_aa222084-002f-42f7-8e2e-ba4e74cc3471": {
+  "brand": "Philips",
+  "product": "automobile"
+ },
+ "dell_computer keyboard manuals_ce661590-4cc8-4846-b082-a20fe5f7a878": {
+  "brand": "Dell",
+  "product": "computer keyboard"
+ },
+ "laptop_dell_Alienware 17 R5 Service Manual_2": {
+  "brand": "Dell",
+  "product": "laptop"
+ },
+ "sony_speaker_ca7086d3-effb-4230-8f16-26066834c1e3": {
+  "brand": "Sony",
+  "product": "speaker"
+ },
+ "drone_dji_Mavic Pro User Manual V2.0": {
+  "brand": "DJI",
+  "product": "drone"
+ },
+ "dell_all in one printer manuals_f757a4a2-fb78-4f6e-a530-5b3c17bf6ecf": {
+  "brand": "Dell",
+  "product": "printer"
+ },
+ "dell_computer hardware manuals_586ec0de-09e1-47a0-8c21-4ad65f7b856e": {
+  "brand": "Dell",
+  "product": "Repair/Assemble Guideline"
+ },
+ "samsung_camcorder manuals_3f372bde-31ea-43c0-93fd-23bc3dec3c5a": {
+  "brand": "Samsung",
+  "product": "camcorder"
+ },
+ "samsung_mp3 player manuals_1d395228-d01d-47cd-a4b2-0d4e7a68a2be": {
+  "brand": "Samsung",
+  "product": "mp3 player"
+ },
+ "telsla_model_s_manual": {
+  "brand": "Tesla",
+  "product": "automobile"
+ },
+ "lenovo_laptop manuals_9ba3de26-72df-433b-accc-37d928365172": {
+  "brand": "Lenovo",
+  "product": "laptop"
+ },
+ "lenovo_computer accessories manuals_86c8fff8-2776-4d1a-93c6-bc04aa05fae2": {
+  "brand": "Lenovo",
+  "product": "computer accessories"
+ },
+ "bose_stereo_receiver_manuals_316097b3-345d-4cde-b2f7-c0a6e0004669": {
+  "brand": "Bose",
+  "product": "music receiver"
+ },
+ "dell-venue-8-pro_user's guide_en-us": {
+  "brand": "Dell",
+  "product": "tablet"
+ },
+ "bose_portable_speaker_manuals_891b4fd2-3578-44ce-8a02-cef456f79835": {
+  "brand": "Bose",
+  "product": "portable speaker"
+ },
+ "philips_air conditioner manuals_e0153209-0c0d-47b7-bf34-a9566863948a": {
+  "brand": "Philips",
+  "product": "air conditioner"
+ },
+ "lenovo_tablet manuals_6c58a878-04f9-4858-9afc-8617206978e8": {
+  "brand": "Lenovo",
+  "product": "tablet"
+ },
+ "HUAWEI_display B3-241H User Guide-(SSN-24BZ,02,en)": {
+  "brand": "HUAWEI",
+  "product": "computer monitor"
+ },
+ "philips_air cleaner manuals_1639439c-da46-499f-b6bf-1d5cc1b3ce1f": {
+  "brand": "Philips",
+  "product": "air cleaner"
+ },
+ "og_en_wmsucb": {
+  "brand": "Bose",
+  "product": "music system"
+ },
+ "dell_tablet manuals_55ebd59a-9741-4539-9130-58ec89f15f29": {
+  "brand": "Dell",
+  "product": "tablet"
+ },
+ "samsung_washerdryer manuals_9192aa4a-07ea-4e75-813c-fee971b2381d": {
+  "brand": "Samsung",
+  "product": "washerdryer"
+ },
+ "samsung_mouse manuals_74eb5075-bbbc-4034-9d8c-2c532700076a": {
+  "brand": "Samsung",
+  "product": "mouse"
+ },
+ "sony_tablet manuals_ba382e73-3477-4dfd-9f45-980997c3d119": {
+  "brand": "Sony",
+  "product": "tablet"
+ },
+ "toshiba_laptop manuals_a4010317-1e49-40f0-88e1-7c38a63a8791": {
+  "brand": "Toshiba",
+  "product": "laptop"
+ },
+ "lg_speaker system manuals_d8d7ccb0-10b1-4bd9-8a6d-e4f377a6ee79": {
+  "brand": "LG",
+  "product": "speaker system"
+ },
+ "sony_tv vcr combo manuals_347b01aa-2e25-d1e4-4921-24dc4d18abb8": {
+  "brand": "Sony",
+  "product": "tv"
+ },
+ "samsung_label maker manuals_e6058340-b585-43fd-8dcc-b233a50395fc": {
+  "brand": "Samsung",
+  "product": "label maker"
+ },
+ "sony_video game headset manuals_f37e7e41-7536-4663-adc7-b588caa5aacc": {
+  "brand": "Sony",
+  "product": "game"
+ },
+ "sony_tv cables manuals_b0c93042-eb72-46ca-8308-274be260a067": {
+  "brand": "Sony",
+  "product": "tv cables"
+ },
+ "Apple_iSightUserGuide": {
+  "brand": "Apple",
+  "product": "computer accessories"
+ },
+ "lg_cd player manuals_5f2a1729-56f3-47de-a515-377f47797ba9": {
+  "brand": "LG",
+  "product": "cd player"
+ },
+ "alienware-17-r5_users-guide_en-us": {
+  "brand": "Dell",
+  "product": "laptop"
+ },
+ "bose_stereo amplifier manuals_75e037bc-fbcc-c214-3964-d4c9efb89725": {
+  "brand": "Bose",
+  "product": "music amplifier"
+ },
+ "sony_two-way radio manuals_286884a2-0548-4437-a218-96c986c72459": {
+  "brand": "Sony",
+  "product": "radio"
+ },
+ "sony_plumbing product manuals_913b9e1c-a370-48c8-8bbf-22a72688b798": {
+  "brand": "Sony",
+  "product": "TV stand"
+ },
+ "samsung_cell phone accessories manuals_de30be54-38b5-46f4-8dc4-a2376a6e571d": {
+  "brand": "Samsung",
+  "product": "cell phone"
+ },
+ "samsung_tv mount manuals_83c6e5b8-9723-4060-9c2a-948553dfc60d": {
+  "brand": "Samsung",
+  "product": "tv"
+ },
+ "lenovo_headphones_manuals_8a6d646c-0641-4ac0-99db-0258fc27fe11": {
+  "brand": "Lenovo",
+  "product": "headphones"
+ },
+ "laptop_MacBook Pro User's Guide (Manual)_2": {
+  "brand": "Apple",
+  "product": "laptop"
+ },
+ "samsung_blu-ray player manuals_0bb1cd65-1b37-4e59-bad6-91dd55d0b70d": {
+  "brand": "Samsung",
+  "product": "blu-ray player"
+ },
+ "Ubuntu_Getting Started with Ubuntu 16.04": {
+  "brand": "Ubuntu",
+  "product": "operating system"
+ },
+ "samsung_tv antenna manuals_18d5edb0-b169-4a3c-b474-ffd2a82010cf": {
+  "brand": "Samsung",
+  "product": "tv"
+ },
+ "samsung_dishwasher manuals_9adb4d01-2d97-4052-b312-b841ea6879cd": {
+  "brand": "Samsung",
+  "product": "dish washer"
+ },
+ "samsung_speaker manuals_507ac6c2-2961-48dd-8db0-fecd7b7ff025": {
+  "brand": "Samsung",
+  "product": "speaker"
+ },
+ "cars_mercedes-eqc-2019-suv-293-owners-manual-1640173907": {
+  "brand": "Mercedes-Benz",
+  "product": "automobile"
+ },
+ "sony_portable cd player manuals_e14fd0db-a9f8-4d38-95ed-cfc9c54525e5": {
+  "brand": "Sony",
+  "product": "cd player"
+ },
+ "samsung_projector manuals_6158bb99-81b9-441e-b4c1-3e079ffda064": {
+  "brand": "Samsung",
+  "product": "projector"
+ },
+ "samsung_automobile parts manuals_a17a32f5-1140-4657-96ae-43e2e1a5b851": {
+  "brand": "Samsung",
+  "product": "automobile"
+ },
+ "philips_blu-ray player manuals_4f92da59-223d-44e5-b2dc-8336678082f6": {
+  "brand": "Philips",
+  "product": "blu-ray player"
+ },
+ "huawei_credit_card_machine_manuals_0ea2f6ce-9517-49a5-9058-0cef00082885": {
+  "brand": "HUAWEI",
+  "product": "credit card machine"
+ },
+ "LG_Wireless Stereo Headset": {
+  "brand": "LG",
+  "product": "bluetooth headset"
+ },
+ "Samsung_TV_Neo QLED 8K_OSNATSCB-3.2.0_EM_Oscar_Pontus_Nike_Kant-SU2e_USA_ENG_220216.0": {
+  "brand": "Samsung",
+  "product": "tv"
+ },
+ "bose_speaker_system_manuals_3a7d405b-8fd0-4d9c-836d-ad465d71d62f": {
+  "brand": "Bose",
+  "product": "speaker system"
+ },
+ "Google_Android-Lollipop-Quick-Start-Guide": {
+  "brand": "Google",
+  "product": "operating system"
+ },
+ "bose_portable_radio_manuals_591dc78b-9fb8-4e9e-a559-a03410db1ad4": {
+  "brand": "Bose",
+  "product": "music system"
+ },
+ "og_wave-bma_en": {
+  "brand": "Bose",
+  "product": "music adapter"
+ },
+ "Samsung_watch_WEA_R89X_R88X_R87X_R86X_EN_UM_071621_FINAL_AC": {
+  "brand": "Samsung",
+  "product": "watch"
+ }
+}
